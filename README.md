@@ -39,12 +39,9 @@ Install Python dependencies using:
 
 ```bash
 pip install opencv-python mediapipe numpy pyserial
-
+```
 ## Demo
 
 ![Hand Gesture Demo](hmi_robot.gif)  
-
-
----
 
 
